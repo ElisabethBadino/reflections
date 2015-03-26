@@ -1,0 +1,14 @@
+Reflection 1
+
+Question: What happens when you initialise a repository? Why do you need to do it?
+
+When you initialise a repository you tell it that you want this directory to be a git repository, so that you are able to run version control on it.
+
+*******************
+
+Reflection 2
+
+Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is can be the entire directory, or a logically connected set of files that you wish to include in a commit.
+The value that it offers, is that if you review commits, you can look at just some of the files in a repository, not all of them, making it more simple to compare and find bugs.
