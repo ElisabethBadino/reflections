@@ -16,3 +16,13 @@ If Git automatically saved all the time, the different versions might be in the 
 or something similar that is not complete.
 
 ************************
+
+Reflection 3
+
+Question: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are like clones, only they are created directly on the GitHub platform.
+Clones are when you copy an entire repository.
+A branch is when you make a seperate file off of the master file.
+
+************************
