@@ -1,0 +1,55 @@
+Reflection 1
+
+Using diff to find bugs.
+-Using diff made it easy to find the bug in a JavaScript file that was more than 1000 lines long.
+-Finding bugs could be difficult though, if there were too many, as the Terminal window is not easily readable.
+
+**************
+
+Reflection 2
+
+Question: How could having access to the entire history of a file make you a more efficient programmer in the long term?
+
+In case a change was made that introduced a bug, and you lost track of which changes you had made since the bug. Especially in a situation where more than one programmer is working on a project. Or if something you changed had a consequence for a different part of the code.
+
+****************
+
+Reflection 3
+
+Question: What do you think the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+One advantage of choosing when to commit, is that you then don't get half finished versions saved, and you know when you have saved, so you won't have to look through a lot of versions to find the point in time you were looking for.
+On the other hand, if you are working online, or your computer crashes, then it is nice to work with a program that automatically saves so you do not loose too much work.
+
+****************
+
+Reflection 4
+
+Question: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I believe that this is due to the fact that in programming it is more common for files to be included in each other, and for changes in one file to affect other files, than it is in e.g. text editing.
+
+******************
+
+Reflection 5
+
+Question: How can you use the commands git log and git diff to view the history of files?
+
+git log is used to view file versions. Press down until you reach the commit you were looking for.
+git diff is used to find the lines that were changed from two different commits that you compare. Also press down until the END tag comes to see all revisions.
+
+******************
+
+Reflection 6
+
+Question: How might using version control make you more confident to make changes that could break something?
+
+It would make me more confident in trying out different commands or functions, because I could go back to a previous version in case I introduced a bug I could not find, or changed so many things that I lost the overview of what I had done.
+
+******************
+
+Reflection 7
+
+Question: Now that you have your workspace set up, what do you want to try using git for?
+
+I would like to look at some of my running programs, and then trying to introduce a bug, to see if git can find it.
