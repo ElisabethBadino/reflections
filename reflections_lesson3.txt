@@ -1,0 +1,7 @@
+Reflection 1
+
+Question: When would you want to use a remote repository rather than keeping all your work local?
+
+Using a remote repository would be more safe, because your work would not be lost if something happened to your computer.
+
+************************
