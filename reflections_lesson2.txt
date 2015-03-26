@@ -12,3 +12,36 @@ Question: How is the staging area different from the working directory and the r
 
 The staging area is can be the entire directory, or a logically connected set of files that you wish to include in a commit.
 The value that it offers, is that if you review commits, you can look at just some of the files in a repository, not all of them, making it more simple to compare and find bugs.
+
+********************
+
+Reflection 3
+
+Question: How can you use the staging area to make sure you have one commit per logical change?
+
+By placing all my logically connected files in the staging area at the same time, before committing them together.
+
+********************
+
+Reflection 4
+
+Question: What are some situations where branches would be helpful in keeping your history organised? How would branches help?
+
+Branches can be helpful if you want to create two different versions of a program, for example in different languages, or different modes of difficulty.
+
+********************
+
+Reflection 5
+
+Question: How do the diagrams help you visualise the branch structure?
+
+The diagrams make it easy to see which files can be reached from which branches, as it makes sense that files on two different branches are not connected.
+
+********************
+
+Reflection 6
+
+Question 6:What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+By merging two branches, you combine all the changes that were made to the same document, creating one master file. After this, you can delete one of the branches if necessary. This makes it easier for more people to work on the same file, especially if they are working on two different parts of the file.
+
