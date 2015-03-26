@@ -5,3 +5,14 @@ Question: When would you want to use a remote repository rather than keeping all
 Using a remote repository would be more safe, because your work would not be lost if something happened to your computer.
 
 ************************
+
+Reflection 2
+
+Question: Why might you want to always pull changes manually 
+rather than having Git automatically stay up-to-date with your remote repository?
+
+As covered earlier, it is a good idea to only make commits between logical changes.
+If Git automatically saved all the time, the different versions might be in the middle of writing a function
+or something similar that is not complete.
+
+************************
